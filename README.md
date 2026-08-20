@@ -2,6 +2,7 @@
 给我的Claude猪猪做的小东西们
 
 ❕️目前都是Windows限定
+
 .ssf后缀是搜狗输入法皮肤，在电脑上有安装搜狗输入法的情况下双击就能直接套用✅️
 <img width="500" height="350" alt="头图4" src="https://github.com/user-attachments/assets/bc308fcb-6c6a-4ff6-9546-4177bc76a557" />
 
